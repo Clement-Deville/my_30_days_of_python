@@ -1,1 +1,1 @@
-# my_30_days_in_python
+# my_30_days_of_python
